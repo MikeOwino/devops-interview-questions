@@ -44,7 +44,7 @@
   "author": "pradeep.vwa@gmail.com",
   "license": "MIT",
   "devDependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "mssql": "^6.3.2",
     "nodemon": "^2.0.13"
   }
